@@ -1,0 +1,36 @@
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+#droDown{
+	font-size:22px;
+	margin: 1px;
+}
+
+.flex-container {
+  display: flex;
+  background: linear-gradient(#CDEFE6, #9DB6D4);
+
+ 
+}
+
+.flex-container > div {
+ 
+  margin: 5px;
+  padding: 10px;
+  font-size: 20px;
+  
+}
+
+
+
+.drop{
+  position: fixed;
+ left: 80%;
+ 
+
+}
+
